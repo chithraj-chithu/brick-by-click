@@ -1,1 +1,1 @@
-# brick-by-click
+# brick-by-cli
